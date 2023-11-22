@@ -1,2 +1,2 @@
 # Camp-Gear
-Simple Camping Gear website only using HTML and CSS
+Simple Camping Gear resonsive website  using HTML, CSS and Javascript.
